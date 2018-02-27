@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FragmentStudy</string>
+    <string name="title_home">Home</string>
+    <string name="title_scan">Scan</string>
+    <string name="title_setting">Setting</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_Home_fragment">Hello blank home fragment</string>
+    <string name="hello_blank_Scan_fragment">Hello blank scan fragment</string>
+    <string name="hello_blank_Setting_fragment">Hello blank setting fragment</string>
+    <string name="TempShow">Test Message</string>
+</resources>
